@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Nguyen Le Duy
 
-<!--
-**NguyenLeDuyy/NguyenLeDuyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Information Technology Student - Ho Chi Minh City University of Transport  
+📊 Aspiring Data Analyst  
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- Python (Pandas, NumPy)
+- SQL
+- Excel / Pivot Table
+- Tableau / Data Studio
+- Data Cleaning & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+
+### 🚗 Drowsiness Detection (CNN)
+- Image processing with OpenCV
+- Model built with TensorFlow/Keras
+- Accuracy evaluation and visualization
+
+### 📚 Online Book Sales Management System
+- Data modeling (ERD, DFD)
+- Admin dashboard design (Figma)
+- Inventory and revenue reporting
+
+## 📜 Certificates
+- Google Data Analytics Professional Certificate
+- Google AI Essentials
+- Foundations of Cybersecurity
+
+## 📫 Contact
+Email: nguyendu...@gmail.com  
+LinkedIn: ...
