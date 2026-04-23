@@ -1,39 +1,55 @@
 <h1 align="center">Nguyen Le Duy</h1>
-<p align="center">
-  <b>Backend Engineer Intern</b> • FastAPI • PostgreSQL • Docker • JWT • Clean Architecture
-</p>
 
 <p align="center">
-  Building backend systems with a focus on APIs, authentication, databases, and maintainable architecture.
+  <b>Backend Engineer Intern</b><br/>
+  FastAPI • PostgreSQL • Docker • JWT • Clean Architecture
 </p>
 
 ---
 
 ### About Me
-- Backend-focused IT student with a strong interest in API development and system design
-- Experienced in building RESTful services with FastAPI and SQLAlchemy
-- Comfortable with authentication, database design, layered architecture, and debugging
-- Interested in scalable, production-minded backend engineering
+
+Backend-focused IT student with hands-on experience in building RESTful APIs, authentication systems, and database-driven applications.
+
+- Strong interest in backend engineering and system design  
+- Experience with FastAPI, SQLAlchemy, and PostgreSQL  
+- Familiar with authentication (JWT), layered architecture, and debugging  
+- Actively improving skills in production-ready backend development  
+
+---
 
 ### Tech Stack
-**Languages:** Python, SQL  
-**Backend:** FastAPI, SQLAlchemy, JWT  
-**Database:** PostgreSQL, SQLite  
-**Tools:** Docker, Git, GitHub, Alembic, pytest  
-**Practices:** RESTful API, layered architecture, validation, testing
 
-### Featured Projects
-**Expense Tracker API**  
-RESTful backend with FastAPI, SQLAlchemy, JWT authentication, user-based access control, and layered architecture.
+- **Languages:** Python, SQL  
+- **Backend:** FastAPI, SQLAlchemy  
+- **Database:** PostgreSQL, SQLite  
+- **Tools:** Docker, Git, GitHub, Alembic, pytest  
+- **Concepts:** RESTful API, Authentication, Authorization, Layered Architecture  
 
-**Online Book Sales Management System**  
-Business workflow design, ERD/DFD modeling, and admin-side management features.
+---
+
+### Featured Project
+
+#### Expense Tracker API
+
+- Built RESTful API using FastAPI and SQLAlchemy  
+- Implemented JWT authentication and user-based data isolation  
+- Applied layered architecture (router → service → repository)  
+- Designed database schema and handled CRUD operations  
+- Supports filtering, pagination, and clean API structure  
+
+---
 
 ### What I'm Working On
-- Converting projects into production-ready backend systems
-- Adding Docker, PostgreSQL, migration, and testing to my portfolio
-- Improving code quality, architecture, and deployment skills
+
+- Upgrading project to production-ready level  
+- Adding Docker, PostgreSQL, and database migrations  
+- Writing unit tests with pytest  
+- Improving API design and system structure  
+
+---
 
 ### Contact
-- GitHub: [NguyenLeDuyy](https://github.com/NguyenLeDuyy)
-- Email: nguyenleduy10122004@gmail.com
+
+- GitHub: https://github.com/NguyenLeDuyy  
+- Email: nguyenleduy10122004@gmail.com  
