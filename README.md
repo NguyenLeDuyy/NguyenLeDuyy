@@ -2,54 +2,42 @@
 
 <p align="center">
   <b>Backend Engineer Intern</b><br/>
-  FastAPI • PostgreSQL • Docker • JWT • Clean Architecture
+  FastAPI • SQLAlchemy • PostgreSQL • Docker • JWT • Clean Architecture
+</p>
+
+<p align="center">
+  Building backend systems with a focus on APIs, authentication, databases, and maintainable architecture.
 </p>
 
 ---
 
 ### About Me
-
-Backend-focused IT student with hands-on experience in building RESTful APIs, authentication systems, and database-driven applications.
-
-- Strong interest in backend engineering and system design  
-- Experience with FastAPI, SQLAlchemy, and PostgreSQL  
-- Familiar with authentication (JWT), layered architecture, and debugging  
-- Actively improving skills in production-ready backend development  
-
----
+- Backend-focused IT student with hands-on experience in RESTful API development
+- Strong interest in authentication, database design, and layered architecture
+- Familiar with FastAPI, SQLAlchemy, JWT, and debugging backend issues
+- Actively improving production-ready engineering skills
 
 ### Tech Stack
-
-- **Languages:** Python, SQL  
-- **Backend:** FastAPI, SQLAlchemy  
-- **Database:** PostgreSQL, SQLite  
-- **Tools:** Docker, Git, GitHub, Alembic, pytest  
-- **Concepts:** RESTful API, Authentication, Authorization, Layered Architecture  
-
----
+- **Languages:** Python, SQL
+- **Backend:** FastAPI, SQLAlchemy
+- **Database:** PostgreSQL, SQLite
+- **Auth:** JWT, bcrypt
+- **Tools:** Docker, Git, Alembic, pytest
+- **Practices:** RESTful API, layered architecture, validation, testing
 
 ### Featured Project
-
 #### Expense Tracker API
+- Built a RESTful backend for expense management using FastAPI
+- Implemented JWT authentication and user-based data access control
+- Applied layered architecture (Router → Service → CRUD)
+- Designed database schema and handled CRUD operations
+- Supports filtering, sorting, and pagination
 
-- Built RESTful API using FastAPI and SQLAlchemy  
-- Implemented JWT authentication and user-based data isolation  
-- Applied layered architecture (router → service → repository)  
-- Designed database schema and handled CRUD operations  
-- Supports filtering, pagination, and clean API structure  
-
----
-
-### What I'm Working On
-
-- Upgrading project to production-ready level  
-- Adding Docker, PostgreSQL, and database migrations  
-- Writing unit tests with pytest  
-- Improving API design and system structure  
-
----
+### Current Focus
+- Backend Engineering Intern roles
+- API design and system architecture
+- Writing clean, maintainable, and testable code
 
 ### Contact
-
-- GitHub: https://github.com/NguyenLeDuyy  
-- Email: nguyenleduy10122004@gmail.com  
+- GitHub: [NguyenLeDuyy](https://github.com/NguyenLeDuyy)
+- Email: nguyenleduy10122004@gmail.com
